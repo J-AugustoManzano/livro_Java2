@@ -1,5 +1,5 @@
 # Programação de computadores com Java 2
-# Guia básico de introdução, orientação e desenvolvimento
+Guia básico de introdução, orientação e desenvolvimento
 
 Este trabalho tem o objetivo de apresentar ao leitor (estudante) uma introdução básica da aplicação da linguagem de programação de computadores orientada a objetos Java 2. Não é o objetivo desta obra tratar o assunto com extrema profundidade, tanto no modo console como no modo gráfico, pois isto seria impossível devido a grande extensão de uso da linguagem de programação Java. O objetivo principal e também nosso desejo são o de fornecer um material que seja um facilitador para professores e alunos.
 
